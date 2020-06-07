@@ -1,1 +1,1 @@
-web: gunicorn ethicalyouths.wsgi
+web: gunicorn ethicalyouths.wsgi --log-file -
